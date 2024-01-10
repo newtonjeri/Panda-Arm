@@ -1,5 +1,3 @@
-
-```markdown
 # ROS 2 Command Cheat Sheet
 
 ## Workspace Management
@@ -112,5 +110,3 @@ ros2 node hz /my_node
 
 ### ROS 2 Source Installation
 [ROS 2 Source Installation](https://index.ros.org/doc/ros2/Installation/Foxy/Linux-Development-Setup/)
-
-```
