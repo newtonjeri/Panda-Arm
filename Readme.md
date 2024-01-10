@@ -1,6 +1,3 @@
-Certainly! Below is a sample README.md file for your Panda Arm Pick and Place project. Feel free to customize it based on your specific details and requirements:
-
-```markdown
 # Panda Arm Pick and Place
 
 ![Panda Arm Pick and Place](path/to/your/image.png)
@@ -86,6 +83,3 @@ Contributions to the Panda Arm Pick and Place project are welcome. Feel free to 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace placeholders such as `your_username`, `[Additional dependencies...]`, and `path/to/your/image.png` with the appropriate information. Customize the content as needed for your project.
